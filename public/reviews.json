@@ -1,0 +1,26 @@
+[
+    {
+        "reviewer": "IGN",
+        "rating": 8,
+        "date": "2024-01-01",
+        "review": "It has a little something for everyone"
+    },
+    {
+        "reviewer": "videogamedunkey",
+        "rating": 10,
+        "date": "2024-01-03",
+        "review": "meh, good game"
+    },
+    {
+        "reviewer": "buglivia",
+        "rating": 3,
+        "date": "2021-03-05",
+        "review": "Honestly, I could not be bothered to play this game to full completion. The narrator is obnoxious and unfunny, with his humor and dialog proving to be more irritating than entertaining. The individual paths themselves are also not very fun, not offering much to do throughout each path, and requiring some rather tedious nonsense to get certain endings. I cannot reccomend [sic] this game to anyone, even as a “so bad it’s good” game, as you’ll more than likely wind up bored by your third or fourth play through."
+    },
+    {
+        "reviewer": "Cookie9",
+        "rating": 4,
+        "date": "2021-03-07",
+        "review": "I wish there was a skip button"
+    }
+]
